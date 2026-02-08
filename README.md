@@ -1,4 +1,4 @@
-Online Exam System (CBE Portal)
+Online Exam System (CBE Portal):
 A complete Java Swing desktop application for managing and taking academic examinations, integrated with a MySQL database via JDBC.
 
 Features:
